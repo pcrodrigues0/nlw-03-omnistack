@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daeadd58-2979-4141-a7ee-c4763222cb36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ithRBF6OZd2wS7iDpSM3L3wiU0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/database" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daeadd58-2979-4141-a7ee-c4763222cb36" name="Default Changelist" comment="" />
+      <created>1602732785278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602732785278</updated>
+      <workItem from="1602732786363" duration="208000" />
+      <workItem from="1602736484316" duration="3933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1771" y="179" key="SettingsEditor" timestamp="1602740592177">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-1771" y="179" key="SettingsEditor/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602740592177" />
+    <state x="-1631" y="274" width="700" height="530" key="recent.locations.popup" timestamp="1602737960684">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-1631" y="274" width="700" height="530" key="recent.locations.popup/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602737960684" />
+    <state x="-1615" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1602739805398">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-1615" y="241" width="670" height="676" key="search.everywhere.popup/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602739805398" />
+  </component>
+</project>
