@@ -34,12 +34,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/../NLW3/backend/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../NLW3/.github" />
       <recent name="$PROJECT_DIR$/../NLW3" />
       <recent name="$PROJECT_DIR$/backend" />
       <recent name="$PROJECT_DIR$/src/database" />
@@ -62,10 +63,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1771" y="179" key="SettingsEditor" timestamp="1602745090895">
+    <state x="-1680" y="188" key="#Plugins" timestamp="1602746031485">
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
-    <state x="-1771" y="179" key="SettingsEditor/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602745090895" />
+    <state x="-1680" y="188" key="#Plugins/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602746031485" />
+    <state x="-1771" y="179" key="SettingsEditor" timestamp="1602746012463">
+      <screen x="-2560" y="0" width="2560" height="1080" />
+    </state>
+    <state x="-1771" y="179" key="SettingsEditor/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602746012463" />
     <state x="-1579" y="295" width="598" height="490" key="find.popup" timestamp="1602742857337">
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
@@ -74,9 +79,9 @@
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
     <state x="-1631" y="274" width="700" height="530" key="recent.locations.popup/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602737960684" />
-    <state x="-1615" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1602739805398">
+    <state x="-1615" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1602745979920">
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
-    <state x="-1615" y="241" width="670" height="676" key="search.everywhere.popup/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602739805398" />
+    <state x="-1615" y="241" width="670" height="676" key="search.everywhere.popup/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602745979920" />
   </component>
 </project>
