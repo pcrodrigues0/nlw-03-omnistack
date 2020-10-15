@@ -25,14 +25,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../NLW3" />
+      <recent name="$PROJECT_DIR$/backend" />
       <recent name="$PROJECT_DIR$/src/database" />
     </key>
   </component>
@@ -53,10 +62,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1771" y="179" key="SettingsEditor" timestamp="1602740592177">
+    <state x="-1771" y="179" key="SettingsEditor" timestamp="1602745090895">
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
-    <state x="-1771" y="179" key="SettingsEditor/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602740592177" />
+    <state x="-1771" y="179" key="SettingsEditor/-2560.0.2560.1080/0.0.1680.1050@-2560.0.2560.1080" timestamp="1602745090895" />
     <state x="-1579" y="295" width="598" height="490" key="find.popup" timestamp="1602742857337">
       <screen x="-2560" y="0" width="2560" height="1080" />
     </state>
